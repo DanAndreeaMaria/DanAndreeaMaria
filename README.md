@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I'm currently working on #30NitesOfCode on Codédex challenge and I am doing some fun projects and learn new things
-🌱 I'm currently learning HTML, CSS, JavaScript and Bootstrap to create Webpages
-⚡ Got my HTML certificate: https://www.codedex.io/certificates/c3c3b600-6684-4486-893b-51c46ba680c8
+* I'm currently working on #30NitesOfCode on Codédex challenge and I am doing some fun projects and learn new things
+* I'm currently learning HTML, CSS, JavaScript and Bootstrap to create Webpages
+* Got my HTML certificate: https://www.codedex.io/certificates/c3c3b600-6684-4486-893b-51c46ba680c8
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Andreea/30-nites-of-code)  
