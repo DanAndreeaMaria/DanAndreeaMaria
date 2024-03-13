@@ -61,9 +61,9 @@
 <p align="left">
 <a href="https://twitter.com/thedeedeemaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thedeedeemaria" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/andreea-maria-dan-9a2b8a1b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andreea-maria-dan-9a2b8a1b8/" height="30" width="40" /></a>
-<a href="https://fb.com/dan andreea-maria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dan andreea-maria" height="30" width="40" /></a>
+<a href="https://fb.com/andreea.maria.5680/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dan andreea-maria" height="30" width="40" /></a>
 <a href="https://instagram.com/dmariaandreea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dmariaandreea" height="30" width="40" /></a>
-<a href="https://discord.gg/.andreeamaria." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".andreeamaria." height="30" width="40" /></a>
+<a href="https://discord.gg/#5221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".andreeamaria." height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
