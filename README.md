@@ -16,7 +16,7 @@
 
 <h3 align="center">
    
-![Sparkles](sparkles-lit.gif) I'm currently working on #30NitesOfCode on Codédex challenge and I am doing some fun projects and I am learning new things everyday! Thanks to this challenge, I managed to fill up my GitHub repository with so many projects!<span>this is red</span> </h3>
+![Sparkles](sparkles-lit.gif) I'm currently working on #30NitesOfCode on Codédex challenge and I am doing some fun projects and I am learning new things everyday! Thanks to this challenge, I managed to fill up my GitHub repository with so many projects! </h3>
 
 <br><br>
 
@@ -100,7 +100,7 @@
 
 
 
-<!--<img src="https://raw.DanAndreeaMaria.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />-->
+<!--<img src="https://raw.DanAndreeaMaria.com/DanAndreeaMaria/DanAndreeaMaria/output/snake.svg" alt="Snake animation" />-->
 
 <br><br>
 <div align="center">
