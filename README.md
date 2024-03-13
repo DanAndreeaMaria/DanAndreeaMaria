@@ -22,11 +22,12 @@
 * I'm currently learning HTML, CSS, JavaScript and Bootstrap to create Webpages and Web Apps
 * Got my HTML certificate: https://www.codedex.io/certificates/c3c3b600-6684-4486-893b-51c46ba680c8
 
-<div style="background-color: #f0ad4e; color: white; padding: 10px; border-radius: 5px; display: inline-block;">Skill 1</div>
+| Skill   | Color      |
+|---------|------------|
+| Skill 1 | ![#f0ad4e](https://via.placeholder.com/15/f0ad4e/000000?text=+) `#f0ad4e` |
+| Skill 2 | ![#5cb85c](https://via.placeholder.com/15/5cb85c/000000?text=+) `#5cb85c` |
+| Skill 3 | ![#d9534f](https://via.placeholder.com/15/d9534f/000000?text=+) `#d9534f` |
 
-<div style="background-color: #5cb85c; color: white; padding: 10px; border-radius: 5px; display: inline-block;">Skill 2</div>
-
-<div style="background-color: #d9534f; color: white; padding: 10px; border-radius: 5px; display: inline-block;">Skill 3</div>
 
 
 
