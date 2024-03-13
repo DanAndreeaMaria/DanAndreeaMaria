@@ -16,7 +16,10 @@
 -->
 
 ![Space programmer](planets.gif)
-![Space programmer](space-bar.gif)
+<div align="center">
+   <img src="space-bar.gif" alt="Example Image" width="100">
+</div>
+
 * I'm currently working on #30NitesOfCode on Codédex challenge and I am doing some fun projects and learn new things
 * I'm currently learning HTML, CSS, JavaScript and Bootstrap to create Webpages
 * Got my HTML certificate: https://www.codedex.io/certificates/c3c3b600-6684-4486-893b-51c46ba680c8
