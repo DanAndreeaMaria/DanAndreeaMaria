@@ -1,6 +1,6 @@
 ### Hello there! I am Andreea, welcome to my profile!
 
-![Space programmer](image/head-img.gif)
+![Space programmer](head-img.gif)
 
 <!--
 **DanAndreeaMaria/DanAndreeaMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
