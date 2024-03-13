@@ -1,12 +1,16 @@
 <span>
    
-   ![Space programmer](planety.gif)
+   ![Space programmer](nugget.gif)
 </span>   
 <div align="center">
 <h1>   
    Hello there! I am Andreea, welcome to my profile!
 </h1>
 </div>
+<span>
+   
+   ![Space programmer](nugget.gif)
+</span>  
 
 <br><br>
 
