@@ -2,7 +2,11 @@
    <h1>Hello there! I am Andreea, welcome to my profile!</h1>
 </div>
 
+
+
 ![Space programmer](head-img.gif)
+
+
 
 <!--
 - 🔭 I’m currently working on ...
@@ -19,9 +23,13 @@
 * I'm currently learning HTML, CSS, JavaScript and Bootstrap to create Webpages and Web Apps
 * Got my HTML certificate: https://www.codedex.io/certificates/c3c3b600-6684-4486-893b-51c46ba680c8
 
+
+
 <div align="center">
     <img src="planets.gif" alt="planets">
 </div>
+
+
 
 | Skill   | Color      |
 |---------|------------|
