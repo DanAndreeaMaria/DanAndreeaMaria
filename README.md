@@ -19,9 +19,16 @@
 - ⚡ Fun fact: ...
 -->
 
-* I'm currently working on #30NitesOfCode on Codédex challenge and I am doing some fun projects and learn new things
-* I'm currently learning HTML, CSS, JavaScript and Bootstrap to create Webpages and Web Apps
-* Got my HTML certificate: https://www.codedex.io/certificates/c3c3b600-6684-4486-893b-51c46ba680c8
+# I am a self learner, I learn about Web Development
+# The languages that interest me are
+* HTML
+* CSS
+* JavaScript
+* React
+
+# I'm currently working on #30NitesOfCode on Codédex challenge and I am doing some fun projects and I am learning new things everyday
+# My HTML certificate: [https://www.codedex.io/certificates/c3c3b600-6684-4486-893b-51c46ba680c8](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/91386036)
+# My CSS certificate: 
 
 
 <br><br>
