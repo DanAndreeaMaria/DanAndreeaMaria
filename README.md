@@ -4,6 +4,12 @@
 $\color{red}{\textsf{lorem ipsum}}$
 <br><br>
 
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+
 
 ![Space programmer](head-img.gif)
 <br><br>
