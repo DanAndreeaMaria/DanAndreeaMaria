@@ -22,13 +22,30 @@
 * I'm currently learning HTML, CSS, JavaScript and Bootstrap to create Webpages and Web Apps
 * Got my HTML certificate: https://www.codedex.io/certificates/c3c3b600-6684-4486-893b-51c46ba680c8
 
-  <div style="background-color: #f0ad4e; /* Yellow */
-            color: pink;
+<div style="background-color: #f0ad4e; /* Yellow */
+            color: white;
             padding: 10px;
             border-radius: 5px;
             display: inline-block;">
   Skill 1
 </div>
+
+<div style="background-color: #5cb85c; /* Green */
+            color: white;
+            padding: 10px;
+            border-radius: 5px;
+            display: inline-block;">
+  Skill 2
+</div>
+
+<div style="background-color: #d9534f; /* Red */
+            color: white;
+            padding: 10px;
+            border-radius: 5px;
+            display: inline-block;">
+  Skill 3
+</div>
+
 
 
 ## #30NitesOfCode:
