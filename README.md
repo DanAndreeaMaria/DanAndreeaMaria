@@ -19,7 +19,7 @@
 * I'm currently learning HTML, CSS, JavaScript and Bootstrap to create Webpages and Web Apps
 * Got my HTML certificate: https://www.codedex.io/certificates/c3c3b600-6684-4486-893b-51c46ba680c8
 
-<div style="text-align:center;">
+<div align="center">
     <img src="planets.gif" alt="planets">
 </div>
 
