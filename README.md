@@ -22,14 +22,18 @@
 
 <h3>
    
-![Space programmer](nugget.gif) I'm currently working on #30NitesOfCode on Codédex challenge and I am doing some fun projects and I am learning new things everyday! </h3>
+![Sparkles](sparkles-lit.gif) I'm currently working on #30NitesOfCode on Codédex challenge and I am doing some fun projects and I am learning new things everyday! </h3>
 
----
+<br><br>
 
-<h1 align="center">Certificates</h1>
+<h1 align="center">
+   
+![sparkles](sparkles.gif) Certificates ![sparkles](sparkles.gif) </h1> 
+
+<br>
 
 <div align="center">
-   <h3>HTML certificate</h3> 
+   <h3>HTML</h3> 
    
    ![HTML certificate](html-certificate.png)
 </div>
@@ -37,7 +41,7 @@
 <br><br>
 
 <div align="center">
-   <h3>CSS certificate</h3> 
+   <h3>CSS</h3> 
    
    ![CSS certificate](css-certificate.png)
 </div>
