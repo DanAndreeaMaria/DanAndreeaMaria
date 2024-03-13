@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hello there! I am Andreea, welcome to my profile!</h1>
+   <h1>#f03c15 Hello there! I am Andreea, welcome to my profile!</h1>
 </div>
 <br><br>
 
