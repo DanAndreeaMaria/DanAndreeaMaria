@@ -86,7 +86,7 @@
 <br><br>
 <h1 align="center"> 
 
-![Nugget](nugget.gif)Connect with me:![Nugget](nugget.gif)</h1>
+![Nugget](nugget.gif)Connect with me![Nugget](nugget.gif)</h1>
 <p align="center">
 <a href="https://twitter.com/thedeedeemaria" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=7743DB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter 
   logo"  /></a>
