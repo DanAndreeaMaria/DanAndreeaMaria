@@ -1,5 +1,9 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
 <div align="center">
-   <h1 style="font-family: 'Courier New', Courier, monospace;">Hello there! I am Andreea, welcome to my profile!</h1>
+   <h1 style="font-family: "Press Start 2P", system-ui">Hello there! I am Andreea, welcome to my profile!</h1>
 </div>
 
 ![Space programmer](head-img.gif)
