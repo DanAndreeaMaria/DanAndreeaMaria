@@ -15,8 +15,12 @@
 * React
 
 <h3>I'm currently working on #30NitesOfCode on Codédex challenge and I am doing some fun projects and I am learning new things everyday</h3>
-<h3>My HTML certificate:</h3> [https://www.codedex.io/certificates/c3c3b600-6684-4486-893b-51c46ba680c8](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/91386036)
-<h3>My CSS certificate:</h3> 
+<h3>HTML certificate:</h3> 
+![HTML certificate](html-certificate.png)
+<br><br>
+<h3>CSS certificate:</h3> 
+![CSS certificate](css-certificate.png)
+
 
 
 <br><br>
