@@ -1,7 +1,7 @@
 <div align="center"><span>
 
-   ![Space programmer](nugget.gif) </span>
-   <h1>Hello there! I am Andreea, welcome to my profile!</h1>
+   ![Space programmer](nugget.gif) 
+   <h1>Hello there! I am Andreea, welcome to my profile!</span></h1>
    <span>
 
    ![Space programmer](nugget.gif) </span>
