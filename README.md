@@ -10,19 +10,13 @@
 
 <h3 align="center">
    
-![Space programmer](planety.gif) I am a self learner, I learn about Web Development  ![Space programmer](planety.gif)</h3>
-<h3> The languages that interest me are: </h3>
-
-* HTML
-* CSS
-* JavaScript
-* React
+![Space programmer](planety.gif) I am a self-taught web developer. ![Space programmer](planety.gif)</h3>
 
 ---
 
-<h3>
+<h3 align="center">
    
-![Sparkles](sparkles-lit.gif) I'm currently working on #30NitesOfCode on Codédex challenge and I am doing some fun projects and I am learning new things everyday! </h3>
+![Sparkles](sparkles-lit.gif) I'm currently working on #30NitesOfCode on Codédex challenge and I am doing some fun projects and I am learning new things everyday! Thanks to this challenge, I managed to fill up my GitHub repository with so many projects! </h3>
 
 <br><br>
 
@@ -50,6 +44,12 @@
    <h3>CSS</h3> 
    
    ![CSS certificate](css-certificate.png)
+</div>
+
+<br><br>
+
+<div align="center">
+    <img src="planets.gif" alt="planets">
 </div>
 
 <br><br>
@@ -84,7 +84,9 @@
 <br><br>
 
 <br><br>
-<h1 align="center">Connect with me:</h1>
+<h1 align="center"> 
+
+![Nugget](nugget.gif)Connect with me:![Nugget](nugget.gif)</h1>
 <p align="center">
 <a href="https://twitter.com/thedeedeemaria" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=7743DB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter 
   logo"  /></a>
@@ -103,7 +105,8 @@
 <br><br>
 <div align="center">
    
-## #30NitesOfCode:
+## #30NitesOfCode
   [Check out my progress!](https://www.codedex.io/@Andreea/30-nites-of-code)  
+  <br><br>
   ![@Andreea #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Andreea)
 </div>
