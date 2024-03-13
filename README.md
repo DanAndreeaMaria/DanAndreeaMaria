@@ -28,7 +28,7 @@
 
 <h1 align="center">
    
-![sparkles](sparkles.gif) Certificates ![sparkles](sparkles.gif) </h1> 
+![sparkles](sparkles-2.gif) Certificates ![sparkles](sparkles-2.gif) </h1> 
 
 <br>
 
@@ -41,16 +41,17 @@
 <br><br>
 
 <div align="center">
+    <img src="planets.gif" alt="planets">
+</div>
+
+<br><br>
+
+<div align="center">
    <h3>CSS</h3> 
    
    ![CSS certificate](css-certificate.png)
 </div>
 
-
-<br><br>
-<div align="center">
-    <img src="planets.gif" alt="planets">
-</div>
 <br><br>
 
 
