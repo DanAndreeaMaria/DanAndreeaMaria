@@ -17,12 +17,18 @@
 <h3>I'm currently working on #30NitesOfCode on Codédex challenge and I am doing some fun projects and I am learning new things everyday</h3>
 <h3>HTML certificate:</h3> 
 
-![HTML certificate](html-certificate.png)
+<div align="center">
+   
+   ![HTML certificate](html-certificate.png)
+</div>
+
 <br><br>
 <h3>CSS certificate:</h3> 
 
-![CSS certificate](css-certificate.png)
-
+<div align="center">
+   
+   ![CSS certificate](css-certificate.png)
+</div>
 
 
 <br><br>
