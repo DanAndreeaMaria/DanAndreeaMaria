@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
 
 <div align="center">
-   <h1 style="font-family: "Press Start 2P", system-ui">Hello there! I am Andreea, welcome to my profile!</h1>
+   <span style="font-family: "Press Start 2P", system-ui">Hello there! I am Andreea, welcome to my profile!</span>
 </div>
 
 ![Space programmer](head-img.gif)
