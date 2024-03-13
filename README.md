@@ -6,10 +6,6 @@
 <h1>   
    Hello there! I am Andreea, welcome to my profile!
 </h1>
-   <span>
-   
-   ![Space programmer](nugget.gif)
-</span> 
 </div>
  
 
