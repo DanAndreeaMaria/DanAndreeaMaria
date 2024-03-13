@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hello there! I am Andreea, welcome to my profile!</h1>
-   <code style="color : orange">text</code>
 </div>
+<style>kjshfdkasjhfka{color:Blue;}</style>
 <br><br>
 
 
