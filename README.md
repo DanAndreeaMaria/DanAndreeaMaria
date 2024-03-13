@@ -1,5 +1,10 @@
-<div align="center">
+<div align="center"><span>
+
+   ![Space programmer](nugget.gif) </span>
    <h1>Hello there! I am Andreea, welcome to my profile!</h1>
+   <span>
+
+   ![Space programmer](nugget.gif) </span>
 </div>
 
 <br><br>
@@ -9,8 +14,8 @@
 
 <h3><span> 
    
-   ![Space programmer](nugget.gif) 
- I am a self learner, I learn about Web Development</span></h3>
+   ![Space programmer](planety.gif) </span>
+ I am a self learner, I learn about Web Development</h3>
 <h3> The languages that interest me are: </h3>
 
 * HTML
