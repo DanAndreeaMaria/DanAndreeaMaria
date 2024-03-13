@@ -7,20 +7,8 @@
 ![Space programmer](head-img.gif)
 <br><br>
 
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h3> I am a self learner, I learn about Web Development</h3>
-<h3> The languages that interest me are </h3>
+<h3> The languages that interest me are: </h3>
 * HTML
 * CSS
 * JavaScript
@@ -47,7 +35,7 @@
 
 
 
-
+<br><br>
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Andreea/30-nites-of-code)  
   ![@Andreea #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Andreea)
