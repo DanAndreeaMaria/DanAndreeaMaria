@@ -1,11 +1,11 @@
 <div align="center">
    <h1>Hello there! I am Andreea, welcome to my profile!</h1>
 </div>
-
+<br><br>
 
 
 ![Space programmer](head-img.gif)
-
+<br><br>
 
 
 <!--
@@ -24,11 +24,11 @@
 * Got my HTML certificate: https://www.codedex.io/certificates/c3c3b600-6684-4486-893b-51c46ba680c8
 
 
-
+<br><br>
 <div align="center">
     <img src="planets.gif" alt="planets">
 </div>
-
+<br><br>
 
 
 | Skill   | Color      |
