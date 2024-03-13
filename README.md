@@ -1,15 +1,8 @@
 <div align="center">
    <h1>Hello there! I am Andreea, welcome to my profile!</h1>
 </div>
-$\color{red}{\textsf{lorem ipsum}}$
+
 <br><br>
-
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-
 
 ![Space programmer](head-img.gif)
 <br><br>
