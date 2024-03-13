@@ -17,7 +17,7 @@
 
 ![Space programmer](planets.gif)
 <div align="center">
-   <img src="space-bar.gif" alt="Example Image" width="100">
+   <img src="space-bar.gif" alt="Example Image" width="100vw">
 </div>
 
 * I'm currently working on #30NitesOfCode on Codédex challenge and I am doing some fun projects and learn new things
