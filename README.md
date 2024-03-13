@@ -1,10 +1,7 @@
 <div align="center">
    <h1>Hello there! I am Andreea, welcome to my profile!</h1>
 </div>
-<span style="color:red">
-Text content
-</span>
-
+$\color{red}{\textsf{lorem ipsum}}$
 <br><br>
 
 
