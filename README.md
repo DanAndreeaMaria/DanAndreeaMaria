@@ -9,6 +9,7 @@
 
 <h3> I am a self learner, I learn about Web Development</h3>
 <h3> The languages that interest me are: </h3>
+
 * HTML
 * CSS
 * JavaScript
