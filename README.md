@@ -1,4 +1,7 @@
 ### Hello there! I am Andreea, welcome to my profile!
+<div align="center">
+   <h1>Hello there! I am Andreea, welcome to my profile!</h1>
+</div>
 
 ![Space programmer](head-img.gif)
 
