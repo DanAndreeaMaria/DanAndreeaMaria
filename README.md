@@ -16,7 +16,7 @@
 
 <h3 align="center">
    
-![Sparkles](sparkles-lit.gif) I'm currently working on #30NitesOfCode on Codédex challenge and I am doing some fun projects and I am learning new things everyday! Thanks to this challenge, I managed to fill up my GitHub repository with so many projects! </h3>
+![Sparkles](sparkles-lit.gif) I'm currently working on #30NitesOfCode on Codédex challenge and I am doing some fun projects and I am learning new things everyday! Thanks to this challenge, I managed to fill up my GitHub repository with so many projects!</h3>
 
 <br><br>
 
@@ -45,6 +45,26 @@
    
    ![CSS certificate](css-certificate.png)
 </div>
+
+<br><br>
+
+<h1 align="center">
+     
+![Sparkles](sparkles-lit.gif)Hackathons![Sparkles](sparkles-lit.gif)</h1>
+
+<br><br>
+
+<h3 align="center">I participated at my first Hackathon on the Codédex platform - a Holiday themed one and I was among the winners of Best First Time Hack!</h3>
+
+<br><br>
+
+![Hackathon](hackathoncodedex.gif)
+
+<br><br>
+
+<div align="center">
+     
+[More details here](https://www.codedex.io/community/monthly-challenge/submission/wXeIxHkeadwXo3AqBOny)</div>
 
 <br><br>
 
