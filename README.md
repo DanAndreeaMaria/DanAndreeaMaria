@@ -19,16 +19,16 @@
 - ⚡ Fun fact: ...
 -->
 
-<h4> I am a self learner, I learn about Web Development</h4>
-<h4> The languages that interest me are </h4>
+<h3> I am a self learner, I learn about Web Development</h3>
+<h3> The languages that interest me are </h3>
 * HTML
 * CSS
 * JavaScript
 * React
 
-<h4>I'm currently working on #30NitesOfCode on Codédex challenge and I am doing some fun projects and I am learning new things everyday</h4>
-<h4>My HTML certificate:</h4> [https://www.codedex.io/certificates/c3c3b600-6684-4486-893b-51c46ba680c8](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/91386036)
-<h4>My CSS certificate:</h4> 
+<h3>I'm currently working on #30NitesOfCode on Codédex challenge and I am doing some fun projects and I am learning new things everyday</h3>
+<h3>My HTML certificate:</h3> [https://www.codedex.io/certificates/c3c3b600-6684-4486-893b-51c46ba680c8](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/91386036)
+<h3>My CSS certificate:</h3> 
 
 
 <br><br>
