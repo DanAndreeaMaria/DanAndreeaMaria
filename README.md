@@ -50,7 +50,9 @@
 
 
 <br><br>
+<div align="center">
+   
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Andreea/30-nites-of-code)  
   ![@Andreea #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Andreea)
-
+</div>
