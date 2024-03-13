@@ -1,11 +1,10 @@
-<h1 align="center"><span>  
+<div align="center">
+<h1><span>  
    
    ![Space programmer](planety.gif)</span>   
    Hello there! I am Andreea, welcome to my profile!
-   <span>  
-   
-   ![Space programmer](planety.gif)</span>   
 </h1>
+</div>
 
 <br><br>
 
