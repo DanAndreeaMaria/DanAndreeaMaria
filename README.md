@@ -1,5 +1,5 @@
 <div align="center">
-   <h1 style="color: #430A5D">Hello there! I am Andreea, welcome to my profile!</h1>
+   <h1 color: #430A5D>Hello there! I am Andreea, welcome to my profile!</h1>
 </div>
 <br><br>
 
