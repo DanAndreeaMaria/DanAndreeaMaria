@@ -66,7 +66,7 @@
 
 <br><br>
 
-<img width="1000px" src="banner.gif" alt="banner">
+<img width="600px" src="space-bar.gif" alt="banner">
 
 <br><br>
 
