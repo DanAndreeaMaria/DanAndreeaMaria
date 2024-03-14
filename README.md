@@ -8,9 +8,17 @@
 ![Space programmer](head-img.gif)
 <br><br>
 
+<div align="center">
+     <img src="planet.png">
+</div>
+
 <h2 align="center">
-   
-![Space programmer](planet.png) I am a self-taught web developer. ![Space programmer](planet.png)</h2>
+     I studied Industrial Informatics at Polytechnic University of Timișoara, from where I received my Engineering degree. After I graduated, I worked as a Computer and Network Equipment Technician for almost two years. At my next job I worked for about one and a half year as a Support Agent at Joom, an online e-commerce platform and now I am a self-taught Web Developer.
+     <br><br>
+<div align="center">
+     <img src="planet.png">
+</div>
+</h2>
 
 <h3 align="center">
    
