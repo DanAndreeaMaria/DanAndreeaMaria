@@ -27,9 +27,9 @@
 <br>
 
 <div align="center">
-   <h3>HTML</h3> 
-   
-   ![HTML certificate](html-certificate.png)
+   <h3>HTML & CSS</h3> 
+   <img src='css-certificate.png' width='400' height='300'>
+   <img src='html-certificate.png' width='400' height='300'>
 </div>
 
 <br><br>
@@ -39,12 +39,6 @@
 </div>
 
 <br><br>
-
-<div align="center">
-   <h3>CSS</h3> 
-   
-   ![CSS certificate](css-certificate.png)
-</div>
 
 <br><br>
 
