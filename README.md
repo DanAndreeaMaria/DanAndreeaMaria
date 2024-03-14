@@ -66,12 +66,8 @@
 
 <br><br>
 
-<img width="600px" src="space-bar.gif" alt="banner">
-
-<br><br>
-
 <div align="center">
-    <img src="planets.gif" alt="planets">
+     <img width="600px" src="coziness.jpg" alt="banner">
 </div>
 
 <br><br>
