@@ -66,6 +66,10 @@
 
 <br><br>
 
+<img width="1000px" src="banner.gif" alt="banner">
+
+<br><br>
+
 <div align="center">
     <img src="planets.gif" alt="planets">
 </div>
