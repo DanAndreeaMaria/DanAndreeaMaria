@@ -24,7 +24,13 @@
    
 ![Sparkles](sparkles-2.gif) Certificates ![Sparkles](sparkles-2.gif) </h1> 
 
-<br>
+<br><br>
+
+<div align="center">
+    <img src="planets.gif" alt="planets">
+</div> 
+
+<br><br>
 
 <div align="center">
    <h3>HTML & CSS</h3> 
@@ -36,7 +42,7 @@
 
 <div align="center">
     <img src="planets.gif" alt="planets">
-</div>
+</div> 
 
 <br><br>
 
