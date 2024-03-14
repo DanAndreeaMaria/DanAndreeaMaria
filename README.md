@@ -67,7 +67,7 @@
 <br><br>
 
 <div align="center">
-     <img width="600px" src="coziness.jpg" alt="banner">
+     <img width="1000px" src="programmer.png" alt="programmer">
 </div>
 
 <br><br>
