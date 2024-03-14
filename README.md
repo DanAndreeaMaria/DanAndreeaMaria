@@ -8,11 +8,9 @@
 ![Space programmer](head-img.gif)
 <br><br>
 
-<h3 align="center">
+<h2 align="center">
    
-![Space programmer](planety.gif) I am a self-taught web developer. ![Space programmer](planety.gif)</h3>
-
----
+![Space programmer](planet.png) I am a self-taught web developer. ![Space programmer](planet.png)</h2>
 
 <h3 align="center">
    
@@ -58,9 +56,9 @@
 
 <br><br>
 
-![Hackathon](hackathoncodedex.gif)
-
-<br><br>
+<div align="center">
+     <img width="300px" src="hackathoncodedex.gif" alt="hackathon">
+</div>
 
 <div align="center">
      
