@@ -42,6 +42,7 @@
    <h3>HTML & CSS</h3> 
    <img src='css-certificate.png' width='400' height='300'>
    <img src='html-certificate.png' width='400' height='300'>
+   <img src='js-certificate.png' width='400' height='300'>
 </div>
 
 <br><br>
